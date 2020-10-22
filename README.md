@@ -1,7 +1,7 @@
 # Java
   3 apps, programs from my Java learning session. 
   
-Mobile phone app - Simply and easy interpretator of mobile phone contacts. This was lists and arraylists in practice for me.
+Mobile phone app - Simply and easy interpretation of mobile phone contacts. This was lists and arraylists in practice for me.
 
 Ordering burger app - Customer idea of creating they own burger with different types of breads and ingrediens with summary cost of order
 
